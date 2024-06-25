@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishit0910
+- 👋 Hi, I’m @Nishit
 - 👀 I’m interested in coding, developing 
 - 🌱 I’m currently learning DSA, Web dev, Back end
 - 💞️ I’m looking to collaborate on ...
