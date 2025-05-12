@@ -8,7 +8,7 @@
                 </h3>
             </td>
             <td>
-                <img src="![Image](https://github.com/user-attachments/assets/454aa5ea-08dd-4486-a6fc-2ac6f4d6b726)" alt="coding gif" width="300" />
+<img src="https://github.com/user-attachments/assets/2f24e6bc-e075-4a06-aa39-95421e294635" alt="git1" width="480" height="270" />
             </td>
         </tr>
     </table>
