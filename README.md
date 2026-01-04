@@ -14,9 +14,9 @@
     </table>
 </div>
 
-- 🌱 I’m currently learning **AIML, Azure Services, React, Dotnet, C#**
+- 🌱 I’m currently learning **Machine Learning, LLM, Azure Services, React, Dotnet, C#**
 
-- 💬 Ask me about **Springboot, Java, Flutter, HTML, CSS, SQL, Azure, Power BI**
+- 💬 Ask me about **Data ETL, Springboot, Java, Flutter, HTML, CSS, SQL, Azure, Power BI**
 
 - 📫 How to reach me **nishit.shukla2004@gmail.com**
 
